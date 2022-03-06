@@ -1,0 +1,49 @@
+body{
+    background-color: pink;
+}
+.pealkiri{
+    color: blue;
+    font-family: stick no bills;
+    text-align: center;
+}
+.allikas{
+    text-align: center;
+    color: rgb(9, 255, 0);
+}
+.pealkiri2{
+    text-align: center;
+    color: rgb(43, 153, 226);
+}
+.Pilt{
+    font-family: stick no bills;
+    text-align: center;
+}
+.Nimekiri{
+    text-align: center;
+    margin: 3rem auto;
+    width: 200px;
+}
+.tabel1{
+    text-align: center;
+    border: 1rem solid;
+    margin: 1rem auto;
+    color: rgb(2, 26, 26);
+}
+.Koostisosad {
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+}  
+.Valmistamine{
+    text-align: center;
+    margin: 1rem  auto;
+    width: 400px;
+}
+.Koostiosad-table {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+.Fontcolor {
+    color: rgb(255, 0, 0);
+}
